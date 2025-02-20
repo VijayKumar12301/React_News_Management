@@ -1,0 +1,9 @@
+.main-content {
+    background-color: #88ee99;
+    color: #333;
+    height: 80vh;  /* 80% of the viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

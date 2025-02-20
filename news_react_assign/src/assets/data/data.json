@@ -1,0 +1,131 @@
+{
+  "user": [
+    {
+      "id": "1d86",
+      "userName": "Vijay",
+      "emailID": "v@gmail.com",
+      "department": "eee",
+      "phoneNumber": 34567890,
+      "password": "Vijay"
+    },
+    {
+      "id": "093c",
+      "userName": "Vijay",
+      "emailID": "v@gmail.com",
+      "department": "eee",
+      "phoneNumber": 134567890,
+      "password": "Vijay"
+    },
+    {
+      "id": "db7d",
+      "userName": "vijay",
+      "emailID": "vi@gmail.com",
+      "department": "asd",
+      "phoneNumber": 431,
+      "password": "asf"
+    },
+    {
+      "id": "c6b7",
+      "userName": "vijay",
+      "emailID": "vi@gmail.com",
+      "department": "asd",
+      "phoneNumber": 3424,
+      "password": "rsrg"
+    },
+    {
+      "id": "4f48",
+      "userName": "kumar",
+      "emailID": "vi@gmail.com",
+      "department": "asd",
+      "phoneNumber": 543,
+      "password": "kumar"
+    },
+    {
+      "id": "5f1f",
+      "userName": "kumar",
+      "emailID": "v@gmail.com",
+      "department": "tt",
+      "phoneNumber": 563,
+      "password": "kumar"
+    },
+    {
+      "id": "3048",
+      "userName": "kumar",
+      "emailID": "v@gmail.com",
+      "department": "tt",
+      "phoneNumber": 346,
+      "password": "kumar"
+    },
+    {
+      "id": "1b45",
+      "userName": "Kumar",
+      "emailID": "v@gmail.com",
+      "department": "tt",
+      "phoneNumber": 2342,
+      "password": "Kumar"
+    },
+    {
+      "id": "5f73",
+      "userName": "Kumar",
+      "emailID": "v@gmail.com",
+      "department": "tt",
+      "phoneNumber": 435,
+      "password": "Kumar"
+    },
+    {
+      "id": "eeb7",
+      "userName": "Vijay",
+      "emailID": "v@gmail.com",
+      "department": "tt",
+      "phoneNumber": 7898765678,
+      "password": "Kumarjb67"
+    },
+    {
+      "id": "42eb",
+      "userName": "Vijay",
+      "emailID": "vijay@gmail.com",
+      "department": "eee",
+      "phoneNumber": 567345678,
+      "password": "Kumarjb672"
+    },
+    {
+      "id": "6e59",
+      "userName": "Vijay",
+      "emailID": "dcs22@gmail.com",
+      "department": "ddd",
+      "phoneNumber": 7093088546,
+      "password": "Kumarjb672"
+    },
+    {
+      "id": "7f4a",
+      "userName": "Vijay",
+      "emailID": "viajy@gmail.com",
+      "department": "eee",
+      "phoneNumber": 567876567,
+      "password": "Kumarjb67s"
+    }
+  ],
+  "news": [
+    {
+      "id": "c104",
+      "category": "KLEC WE",
+      "title": "WKVWEK;W",
+      "content": "fhvhgv",
+      "source": "WFEWF"
+    },
+    {
+      "id": "9e74",
+      "category": "KLEC WE",
+      "title": "WKVWEK;W",
+      "content": "asca",
+      "source": "WFEWF"
+    },
+    {
+      "id": "303d",
+      "category": "KLEC WE",
+      "title": "WKVWEK;W",
+      "content": "zvds",
+      "source": "WFEWF"
+    }
+  ]
+}
